@@ -1,0 +1,1 @@
+Average number of guesses made: 50.5
